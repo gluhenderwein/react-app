@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0190df31.css",
+    "main.js": "/static/js/main.dbad5a30.js",
+    "static/js/453.98bb53cb.chunk.js": "/static/js/453.98bb53cb.chunk.js",
+    "static/media/clay-banks.jpg": "/static/media/clay-banks.3c82523e83e36b48c546.jpg",
+    "static/media/danis-lou.jpg": "/static/media/danis-lou.6fae970062d6adc77ac7.jpg",
+    "static/media/tianshu-liu.jpg": "/static/media/tianshu-liu.2617c2ef455ee6bbf72e.jpg",
+    "index.html": "/index.html",
+    "main.0190df31.css.map": "/static/css/main.0190df31.css.map",
+    "main.dbad5a30.js.map": "/static/js/main.dbad5a30.js.map",
+    "453.98bb53cb.chunk.js.map": "/static/js/453.98bb53cb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0190df31.css",
+    "static/js/main.dbad5a30.js"
+  ]
+}
